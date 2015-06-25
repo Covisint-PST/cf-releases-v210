@@ -6,7 +6,7 @@
   url = https://github.com/cloudfoundry/dea.git
 [submodule "src/dea_next"]
   path = src/dea_next
-  url = https://github.com/happiestminds-covisint/dea_ng/tree/dea_nproc_limit
+  url = https://github.com/happiestminds-covisint/dea_ng.git
 [submodule "src/gorouter"]
 	path = src/gorouter
 	url = https://github.com/cloudfoundry/gorouter
